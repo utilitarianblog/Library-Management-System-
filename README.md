@@ -35,7 +35,7 @@ The **Library Management System (LMS)** is a powerful and intuitive software sol
 Include a screenshot or link to your Entity Relationship Diagram (ERD) here.
 You can use tools like **dbdiagram.io**, **Lucidchart**, or **Draw\.io** to create your ERD.
 
-![ERD Screenshot](_ERD.png)
+![ERD Screenshot](https://github.com/utilitarianblog/Library-Management-System-/blob/main/images)
 
 
 ## **⚙️ Installation and Setup**
